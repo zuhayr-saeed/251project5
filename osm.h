@@ -1,15 +1,3 @@
-/*osm.h*/
-
-//
-// Adam T Koehler, PhD
-// University of Illinois Chicago
-// CS 251, Fall 2022
-//
-// Project Original Variartion By:
-// Joe Hummel, PhD
-// University of Illinois at Chicago
-//
-
 #pragma once
 
 #include <iostream>
